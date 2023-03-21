@@ -69,19 +69,21 @@ Recommendations and conclusion
 
 The following graph chart provides a visual representation of the timeline and tasks involved in this research project:
 
-References:
-[Insert references here in the chosen citation format]
-
+## References:
 
 kindly share some useful references so that I can study and collect data for above research
 
 Certainly, here are some useful references to get you started:
 
-    "Comparing AngularJS, React, Vue.js and More" by Sacha Greif (https://www.sitepoint.com/comparing-javascript-frameworks-angular-react-vue/)
-    "Comparing Popular Frontend Frameworks: Angular, React, and Vue" by Joy Shaheb (https://blog.bitsrc.io/comparing-popular-frontend-frameworks-angular-react-and-vue-b50bccc31cb2)
-    "A Comprehensive Guide to Laravel 5.5" by Aman Virdi (https://www.toptal.com/laravel/a-comprehensive-guide-to-laravel-5)
-    "Scalability: The Key to E-commerce Success" by Sharanya Srinivasan (https://www.tatacommunications.com/blog/2017/06/scalability-the-key-to-e-commerce-success/)
-    "Efficiency vs. Scalability: What’s the Difference?" by Edward Chen (https://www.edwardthomson.com/blog/efficiency-vs-scalability-whats-the-difference.html)
+"Comparing AngularJS, React, Vue.js and More" by Sacha Greif (https://www.sitepoint.com/comparing-javascript-frameworks-angular-react-vue/)
+
+"Comparing Popular Frontend Frameworks: Angular, React, and Vue" by Joy Shaheb (https://blog.bitsrc.io/comparing-popular-frontend-frameworks-angular-react-and-vue-b50bccc31cb2)
+
+"A Comprehensive Guide to Laravel 5.5" by Aman Virdi (https://www.toptal.com/laravel/a-comprehensive-guide-to-laravel-5)
+
+"Scalability: The Key to E-commerce Success" by Sharanya Srinivasan (https://www.tatacommunications.com/blog/2017/06/scalability-the-key-to-e-commerce-success/)
+
+"Efficiency vs. Scalability: What’s the Difference?" by Edward Chen (https://www.edwardthomson.com/blog/efficiency-vs-scalability-whats-the-difference.html)
 
 These resources provide information on web development frameworks such as Angular, React, Vue, and Laravel, as well as insights on scalability and efficiency in web applications. Additionally, you may want to search for academic papers and case studies on these topics in online databases such as IEEE Xplore and ACM Digital Library.
 
